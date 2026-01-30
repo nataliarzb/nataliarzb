@@ -43,10 +43,9 @@ I am a Data Scientist with a strong background in biological data analysis, spat
 ---
 
 ## 📂 Featured Projects
-- **[Project Name]**  
+- **Thesis**  
   Spatial analysis of biological data using raster-based predictors and tidy workflows in R.  
-  *Tools:* `terra`, `tidyverse`, `ggplot2`  
-  👉 [Link to repository]
+  👉 [(https://github.com/nataliarzb/Thesis)]
 
 ---
 
@@ -58,4 +57,4 @@ I am a Data Scientist with a strong background in biological data analysis, spat
 
 ---
 
-📫 **Contacto: natalia.ramirezb@udea.edu.co **
+📫 **Contact: natalia.ramirezb@udea.edu.co **
