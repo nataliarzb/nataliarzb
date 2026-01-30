@@ -10,6 +10,7 @@ I am a Data Scientist specializing in biological data processing, spatial analys
 
 ### 🛠️ R Expertise
 * **Geospatial Analysis:** Advanced handling of `SpatRaster` and `SpatVector` objects using **terra** and **tidyterra**.
+* **GIS Ecosystem:** Seamless integration between **R (terra, sf)** for automated data processing and **QGIS** for spatial validation, vector editing, and final cartographic layouts.
 * **Data Wrangling:** Large-scale biological data transformation using the **tidyverse** (dplyr, tidyr, purrr).
 * **Modeling:** Statistical modeling for experimental and biotechnological research.
 * **Visualization:** Publication-quality figures and maps using **ggplot2** and its extensions.
