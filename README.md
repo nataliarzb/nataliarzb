@@ -14,11 +14,12 @@ I am a Data Scientist specializing in biological data processing, spatial analys
 * **Modeling:** Statistical modeling for experimental and biotechnological research.
 * **Visualization:** Publication-quality figures and maps using **ggplot2** and its extensions.
 
+
 ### 🚀 Tech Stack
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
-![Tidyverse](https://img.shields.io/badge/Tidyverse-white?style=for-the-badge&logo=tidyverse&logoColor=276DC3)
-![Quarto](https://img.shields.io/badge/Quarto-4758AB?style=for-the-badge&logo=quarto&logoColor=white)
 
 ---
 
