@@ -1,7 +1,6 @@
 
 **nataliarzb/nataliarzb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Hi, I'm Natalia Ramírez Bedoya 
 ## Data Scientist for Biology | R & Spatial Analysis Specialist
 
 I am a Data Scientist with a strong background in biological data analysis, spatial modeling, and reproducible scientific workflows. My work focuses on transforming complex biological and environmental datasets into clear, reliable, and interpretable results.
