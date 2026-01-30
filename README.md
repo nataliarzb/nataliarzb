@@ -1,12 +1,10 @@
-## Hi there 👋
 
-<!--
 **nataliarzb/nataliarzb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hola, soy Natalia Ramírez Bedoya 👋
-R Specialist | Computational Biology & Data Processing
+#Hola, soy Natalia Ramírez Bedoya 👋
+#R Specialist | Computational Biology & Data Processing
 
-Científico de datos enfocado en el área biológica, con sólida experiencia en el procesamiento de datos complejos, análisis espacial y visualización científica.
+## Científico de datos enfocado en el área biológica, con sólida experiencia en el procesamiento de datos complejos, análisis espacial y visualización científica.
 
 🛠️ Especialidad en R
 * **Geospatial & Biology:** Experto en el manejo de objetos `SpatRaster` y `SpatVector` con el paquete **terra** y su integración estética mediante **tidyterra**.
