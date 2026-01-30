@@ -49,8 +49,6 @@ I am a Data Scientist with a strong background in biological data analysis, spat
   *Tools:* `terra`, `tidyverse`, `ggplot2`  
   👉 [Link to repository]
 
-*(Additional projects focus on reproducible spatial pipelines and biological data exploration.)*
-
 ---
 
 ## 🎓 Research Interests
